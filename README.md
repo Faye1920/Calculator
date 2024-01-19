@@ -24,18 +24,18 @@ Vous serez évalué sur la qualité de l'application, de l’ergonomique, la qua
 
 ## Pondération
 
-| Critères                                                                                           | %      | Note   |
-|----------------------------------------------------------------------------------------------------|--------|--------|
-| Respect des contraintes                                                                            | 20%    |   /4   |
-| Qualité de l’interface utilisateur, de l’ergonomie, la qualité de l’expérience de l’utilisateur... | 10%    |   /3   |
-| Fonctionnalités                                                                                    | 60%    |   /10  |
-| Lisibilité des codes sources                                                                       | 10%    |   /3   |
+| Critères                                                                                           
+|----------------------------------------------------------------------------------------------------
+| Respect des contraintes                                                                            
+| Qualité de l’interface utilisateur, de l’ergonomie, la qualité de l’expérience de l’utilisateur... 
+| Fonctionnalités                                                                                    
+| Lisibilité des codes sources                                                                       
 
 
 ## Fonctionnalités
 
-| Critères                                                           | Note |
-|--------------------------------------------------------------------|------|
-| Clavier et Affichage de la calculatrice.                           |    /5   |
-| Effectuer les calculs (Addition, soustraction, multiplication, division). |    /3   |
-| Une touche pour effacer un caractère (backspace) et une pour effacer tout. |    /3   |
+| Critères                                                           
+|--------------------------------------------------------------------
+| Clavier et Affichage de la calculatrice.                           
+| Effectuer les calculs (Addition, soustraction, multiplication, division). 
+| Une touche pour effacer un caractère (backspace) et une pour effacer tout. 
